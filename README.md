@@ -1,4 +1,4 @@
-# css-spinner-progress\
+# css-spinner-progress
 
 [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)
 
